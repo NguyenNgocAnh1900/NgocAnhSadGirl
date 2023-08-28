@@ -16,6 +16,6 @@ spawn(function()
 end)
 spawn(function()
     loadstring(game:HttpGet(
-        "https://raw.githubusercontent.com/NguyenNgocAnh1900/NgocAnhSadGirl/main/NaThatSad.lua"
+        "https://raw.githubusercontent.com/NguyenNgocAnh1900/NgocAnhSadGirl/main/NaBuonQua.lua"
   ))()
 end)
