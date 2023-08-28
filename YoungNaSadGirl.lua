@@ -3,7 +3,7 @@ spawn(function()
         task.wait()
     until game:IsLoaded()
     repeat
-        task.wait()
+        task.wait() 
     until game.Players
     repeat
         task.wait()
